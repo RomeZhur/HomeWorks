@@ -2,10 +2,10 @@ import React from 'react'
 import Message from './Message'
 
 const messageData = {
-    avatar: 'https://sun9-74.userapi.com/Ph-WiuOtF985il9AvN9JqiCWedmHtSGSSTXrSA/ltEB2Z2-YO4.jpg',
-    name: 'Some Name',
-    message: 'some text',
-    time: '22:00',
+    avatar: 'https://sun1.cosmostv-by-minsk.userapi.com/s/v1/if1/HscREruKTmGkxhXH_WygJ3Q5RBh86Vtvkvf5wZ8Zi8rfReO4ymLT2ex2aDATkFWARETrlQAF.jpg?size=100x100&quality=96&crop=7,122,1433,1433&ava=1',
+    name: 'MAMA',
+    message: 'Рома домой, кушать!',
+    time: '18:00',
 }
 
 function HW1() {

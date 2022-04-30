@@ -2,7 +2,7 @@
     padding: 7px 0;
     display: flex;
     flex-direction: row;
-    background-color: #b4e443;
+    background-color: #FFFF00;
     font-size: 24px;
 }
 
@@ -15,7 +15,7 @@
 }
 
 .message__avatarImage {
-    width: 61px;
+    width: 80px;
     height: auto;
     border-radius: 50%;
 }
@@ -28,24 +28,22 @@
     flex-direction: column;
     justify-content: flex-start;
     align-items: flex-start;
-    background: #062105;
-    clip-path: polygon(8px 75px, 10px 65px, 10px 5px, 15px 0, calc(100% - 5px) 0, 100% 5px, 100% calc(100% - 5px), calc(100% - 5px) 100%, 0 100%);
+    background: #FF0000;
 }
 
 .message__name {
     padding: 0 100px 0 23px;
-    color: #9a99b0;
+    color: #000000;
 }
 
 .message__text {
     padding: 0 100px 0 23px;
-    color: #adc1ae;
+    color: #00FFFF;
 }
 
 .message__time {
     position: absolute;
     right: 22px;
     bottom: 13px;
-    color: #314c30;
-
+    color: #0000FF;
 }
