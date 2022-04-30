@@ -8,7 +8,6 @@ type MessageType = {
     time: string;
 }
 
-
 function Message(props: MessageType) {
     return (
         <div className={rome.message}>
@@ -24,4 +23,4 @@ function Message(props: MessageType) {
     )
 }
 
-export default Message
+export default Message;
