@@ -5,7 +5,7 @@ const messageData = {
     avatar: 'https://sun1.cosmostv-by-minsk.userapi.com/s/v1/if1/HscREruKTmGkxhXH_WygJ3Q5RBh86Vtvkvf5wZ8Zi8rfReO4ymLT2ex2aDATkFWARETrlQAF.jpg?size=100x100&quality=96&crop=7,122,1433,1433&ava=1',
     name: 'MAMA',
     message: 'Рома домой, кушать!',
-    time: '17:00',
+    time: '18:00',
 }
 
 function HW1() {
